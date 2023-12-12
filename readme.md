@@ -8,10 +8,32 @@ Data d'entrega: 18 de desembre de 2023
 Font: Gava Info (enllaç: https://gava.info/una-experiencia-inmersiva-de-gaudi-ultima-propuesta-cultural-de-la-casa-batllo-para-los-mas-pequenos)
 
 ## 1. Introducció
+El concepte d'**hibridació** de **Lev Manovich**, presentat i comentat en profunditat en el llibre **El software toma el mando** (2013), fa referència a la convergència i a la mescla de diversos mitjans en l'entorn digital, de forma que se'n creen de nous. És a dir, Manovich parla sobre com els nous mitjans digitals no només remedien i transformen els mitjans tradicionals, sinó que també els hibriden creant formes digitals noves i combinades (híbrides).  
+
+Aquest concepte ressalta com la digitalització i la convergència de tecnologies permeten la fusió de diversos mitjans i llenguatges. Per exemple, en la cultura digital contemporània, veiem com les imatges en realitat virtual i la música es combinen amb una experiència museística, o com un rellotge combinat amb sensors i altres tecnologies pot esdevenir molt més que un objecte que t'indica quina hora és.
+
+Així doncs, la hibridació en termes de Manovich, implica la integració de característiques i estils de diversos mitjans en un sol espai digital per a crear formes d'expressió més complexes i multidimensionals. Alhora, aquesta convergència de mitjans i llenguatges esdevé un fenomen molt significatiu en la cultura dels nous mitjans, ja que permet la creació d'experiències molt diverses i més enriquides en l'entorn digital.  
+
+
 
 ## 2. Redescobrint la hibridació. Casos reals.
+Tot seguit presentarem dos casos reals d'hibridació de mitjans però, abans, hem d'aclarir per què es tracta d'hibridació i no d'evolució i/o remediació, segons la teoria de Manovich.
+
+Quan parlem d'**hibridació** de mitjans, aquesta implica la fusió o convergència de diverses formes de mitjans i tecnologies per crear quelcom nou i únic en el context dels nous mitjans. Per exemple, la moda *wearable* combina elements de la moda tradicional amb la tecnologia, creant peces úniques i intel·ligents. En canvi, si parlem d'**evolució** de mitjans, implica canvis en el temps d'un mitjà en particular aprofitant les noves tecnologies, però no impliquen la fusió de diversos mitjans. Un clar exemple seria la transició de la televisió en blanc i negre a la de color, ja que hi ha un canvi tecnològic significatiu però el mitjà segueix sent el mateix.
+
+A més a més, diferenciem la hibridació de la **remediació** en la mesura que aquesta segona s'enfoca en la relació dinàmica entre els mitjans antics i els nous, on els últims fan referència o es basen en els antics per transformar-se o adaptar-se. En canvi, com ja s'ha comentat, la hibridació fusiona diverses formes de mitjans.
+
+Passem doncs a comentar els dos exemples d'hibridació, que ens permetran entendre encara millor què implica aquest concepte de Manovich i com s'aplica al panorama de mitjans actual.
 
 ### 2.1. Cas 1: "Una Nit d'Hivern" de la Casa Batlló
+El primer cas escollit d'hibridació és l'experiència **"Una Nit d'Hivern" de la Casa Batlló**. Es tracta d'una experiència immersiva que integra realitat augmentada (RA), realitat virtual (RV), música, veus en off, *mappings* (projeccions), entre altres elements.
+
+Donat que hi convergeixen diverses tecnologies, ja que l'experiència immersiva combina i fusiona múltiples mitjans, es crea una experiència única que va més enllà de la visita a un museu tradicional. Així doncs, es genera una vivència completament nova i original per a l'espectador/visitant, cosa que no es podria aconseguir amb un sol mitjà o amb els diversos mitjans per separat, sinó que s'han de combinar.
+
+A més a més, la hibridació es manifesta en la integració dels elements físics del museu, com les obres o l'arquitectura de la Casa Batlló, amb els elements digitals com la RA, RV i *mappings*. D'aquesta manera, la combinació de lo físic amb lo digital proporciona noves maneres d'explicar històries i transmetre informació al visitant.
+
 ### 2.2. Cas 2: Moda i tecnologia *wearable*
 
-## 3. Referències i Bibliografia
+## 3. Conclusions
+
+## 4. Referències i Bibliografia
