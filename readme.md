@@ -33,7 +33,17 @@ Donat que hi convergeixen diverses tecnologies, ja que l'experiència immersiva 
 A més a més, la hibridació es manifesta en la integració dels elements físics del museu, com les obres o l'arquitectura de la Casa Batlló, amb els elements digitals com la RA, RV i *mappings*. D'aquesta manera, la combinació de lo físic amb lo digital proporciona noves maneres d'explicar històries i transmetre informació al visitant.
 
 ### 2.2. Cas 2: Moda i tecnologia *wearable*
+Pel que fa al segon cas escollit, la moda i tecnologia *wearable*, es considera un exemple d'hibridació de mitjans per vàries raons, que comentarem tot seguit. En primer lloc, perquè hi ha una convergència de diversos mitjans, ja que la moda (expressió personal, cultural i artística) es fusiona amb la tecnologia digital (sensors, microxips, etc.) per crear peces o accessoris que van més enllà de la seva funció estètica, ja que aporten molt més valor.
+
+A més a més, com en el cas anterior, gràcies a la fusió de lo físic amb lo digital es crea quelcom nou i únic en l'àmbit de la moda. Les peces o accessoris intel·ligents (com, per exemple, els *smartwatches*) no sols són elements estètics, sinó que ofereixen funcionalitats addicionals, interactivitat i conectivitat. De la mateixa manera, es transforma la manera com les persones interactuen amb la seva roba i/o complements.
+
+La moda intel·ligent no es tan sols una declaració d'estil propi i innovador, sino també una forma de comunicació i expressió personal que es veu enriquida gràcies a la tecnologia. Aquestes peces poden transmetre informació, monitorejar la salut o interactuar amb altres dispositius, cosa que amplia el significat i la funcionalitat de la moda.
 
 ## 3. Conclusions
+Tal i com hem pogut interpretar amb els dos exemples anteriors, ben diferents entre si, la hibridació de mitjans es manifesta de manera contundent en molts objectes i experiències que ens envolten: des dels museus que visitem fins a la roba i accessoris que portem. Ambdós casos representen la convergencia de formes de mitjans diverses, fusionant el que és físic amb lo digital per crear una experiència completament diferent i desconeguda fins al moment en el panorama dels nous mitjans.
 
 ## 4. Referències i Bibliografia
+MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 7 de novembre de 2023]. Disponible a: https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions
+
+MANOVICH, Lev. The Language of the New Media [en línia]. The MIT Press, 2001. ISBN 0-262-13374-1 [consulta: 7 de novembre de 2023]. Disponible a: https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf
+
