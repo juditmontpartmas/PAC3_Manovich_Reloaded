@@ -39,7 +39,8 @@ A més a més, com en el cas anterior, gràcies a la fusió de lo físic amb lo 
 
 La moda intel·ligent no es tan sols una declaració d'estil propi i innovador, sino també una forma de comunicació i expressió personal que es veu enriquida gràcies a la tecnologia. Aquestes peces poden transmetre informació, monitorejar la salut o interactuar amb altres dispositius, cosa que amplia el significat i la funcionalitat de la moda.
 
-![Smartwatch](https://pixabay.com/es/photos/reloj-inteligente-manzana-mu%C3%B1eca-821557/)
+![Smartwatch](https://github.com/juditmontpartmas/PAC3_Manovich_Reloaded/blob/main/smart-watch-821557_1280.jpg?raw=true)
+*Ús del Smartwatch per veure el temps*. Font: Pixabay
 
 
 ## 3. Conclusions
