@@ -5,7 +5,7 @@ Autora: Judit Montpart Mas
 Data d'entrega: 18 de desembre de 2023  
 
 ![Casa Batlló](https://i0.wp.com/gava.info/wp-content/uploads/2022/09/casa-batllo.jpg?resize=1068%2C709&ssl=1)
-Font: Gava Info (enllaç: https://gava.info/una-experiencia-inmersiva-de-gaudi-ultima-propuesta-cultural-de-la-casa-batllo-para-los-mas-pequenos)
+*Experiència Inmersiva de la Casa Batlló*. Font: Gava Info (enllaç: https://gava.info/una-experiencia-inmersiva-de-gaudi-ultima-propuesta-cultural-de-la-casa-batllo-para-los-mas-pequenos)
 
 ## 1. Introducció
 El concepte d'**hibridació** de **Lev Manovich**, presentat i comentat en profunditat en el llibre **El software toma el mando** (2013), fa referència a la convergència i a la mescla de diversos mitjans en l'entorn digital, de forma que se'n creen de nous. És a dir, Manovich parla sobre com els nous mitjans digitals no només remedien i transformen els mitjans tradicionals, sinó que també els hibriden creant formes digitals noves i combinades (híbrides).  
@@ -38,6 +38,9 @@ Pel que fa al segon cas escollit, la moda i tecnologia *wearable*, es considera 
 A més a més, com en el cas anterior, gràcies a la fusió de lo físic amb lo digital es crea quelcom nou i únic en l'àmbit de la moda. Les peces o accessoris intel·ligents (com, per exemple, els *smartwatches*) no sols són elements estètics, sinó que ofereixen funcionalitats addicionals, interactivitat i conectivitat. De la mateixa manera, es transforma la manera com les persones interactuen amb la seva roba i/o complements.
 
 La moda intel·ligent no es tan sols una declaració d'estil propi i innovador, sino també una forma de comunicació i expressió personal que es veu enriquida gràcies a la tecnologia. Aquestes peces poden transmetre informació, monitorejar la salut o interactuar amb altres dispositius, cosa que amplia el significat i la funcionalitat de la moda.
+
+![Smartwatch](https://pixabay.com/es/photos/reloj-inteligente-manzana-mu%C3%B1eca-821557/)
+
 
 ## 3. Conclusions
 Tal i com hem pogut interpretar amb els dos exemples anteriors, ben diferents entre si, la hibridació de mitjans es manifesta de manera contundent en molts objectes i experiències que ens envolten: des dels museus que visitem fins a la roba i accessoris que portem. Ambdós casos representen la convergencia de formes de mitjans diverses, fusionant el que és físic amb lo digital per crear una experiència completament diferent i desconeguda fins al moment en el panorama dels nous mitjans.
