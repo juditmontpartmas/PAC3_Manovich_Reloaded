@@ -12,7 +12,7 @@ El concepte d'**hibridació** de **Lev Manovich**, presentat i comentat en profu
 
 Aquest concepte ressalta com la digitalització i la convergència de tecnologies permeten la fusió de diversos mitjans i llenguatges. Per exemple, en la cultura digital contemporània, veiem com les imatges en realitat virtual i la música es combinen amb una experiència museística, o com un rellotge combinat amb sensors i altres tecnologies pot esdevenir molt més que un objecte que t'indica quina hora és.
 
-Així doncs, la hibridació en termes de Manovich, implica la integració de característiques i estils de diversos mitjans en un sol espai digital per a crear formes d'expressió més complexes i multidimensionals. Alhora, aquesta convergència de mitjans i llenguatges esdevé un fenomen molt significatiu en la cultura dels nous mitjans, ja que permet la creació d'experiències molt diverses i més enriquides en l'entorn digital.  
+Així doncs, la hibridació en termes de Manovich, implica la integració de característiques i estils de diversos mitjans en un sol espai digital per a crear formes d'expressió més complexes i multidimensionals. Alhora, aquesta convergència de mitjans i llenguatges esdevé un fenomen molt significatiu en la cultura dels nous mitjans, ja que permet la creació d'experiències molt diverses en l'entorn digital.  
 
 
 
@@ -46,8 +46,17 @@ La moda intel·ligent no es tan sols una declaració d'estil propi i innovador, 
 ## 3. Conclusions
 Tal i com hem pogut interpretar amb els dos exemples anteriors, ben diferents entre si, la hibridació de mitjans es manifesta de manera contundent en molts objectes i experiències que ens envolten: des dels museus que visitem fins a la roba i accessoris que portem. Ambdós casos representen la convergencia de formes de mitjans diverses, fusionant el que és físic amb lo digital per crear una experiència completament diferent i desconeguda fins al moment en el panorama dels nous mitjans.
 
+Així doncs, es demostra com la hibridació dels mitjans no tan sols fusiona tecnologies, sinó que també transforma les experiències humanes. Aquestes fusions creen nous llenguatges visuals, narratius i d'interacció i, d'aquesta manera, obren tota mena de possibilitats d'expressió, comunicació i creativitat.
+
 ## 4. Referències i Bibliografia
-MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 7 de novembre de 2023]. Disponible a: https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions
+ADELL, Ferran. *Remediació, multimèdia i hibridació dels mitjans* [en línia]. Blog del Grau en Multimèdia UOC [consulta: 10 de desembre de 2023]. Disponible a: http://multimedia.uoc.edu/blogs/fem/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
-MANOVICH, Lev. The Language of the New Media [en línia]. The MIT Press, 2001. ISBN 0-262-13374-1 [consulta: 7 de novembre de 2023]. Disponible a: https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf
+MANOVICH, Lev. El software toma el mando [en línia]. Editorial UOC, 2013. ISBN 978-84-9064-022-7 [consulta: 10 de desembre de 2023]. Disponible a: https://books.google.es/books?id=GK7BAgAAQBAJ&hl=ca&source=gbs_book_other_versions
 
+MANOVICH, Lev. The Language of the New Media [en línia]. The MIT Press, 2001. ISBN 0-262-13374-1 [consulta: 10 de desembre de 2023]. Disponible a: https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf
+
+*Una Nit d'Hivern. Casa Batlló* [en línia]. [Consulta: 15 de desembre de 2023]. Disponible a: https://www.casabatllo.es/ca/venda-entrades/visita-nocturna/
+
+*Viquipèdia, l’enciclopèdia lliure* [en línia] [consulta: 15 de desembre de 2023]. Hibridación de medios. Disponible a: https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+
+> Llicència: Creative Commons desenvolupat sota llicència CC BY-SA 4.0.
